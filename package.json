@@ -1,0 +1,14 @@
+{
+  "name": "fundamentosnode",
+  "version": "1.0.0",
+  "description": "Curso de Fundamentos de Node.js by Platzi",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "JoeRojas",
+  "license": "MIT"
+}
