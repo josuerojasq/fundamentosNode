@@ -10,5 +10,8 @@
     "node"
   ],
   "author": "JoeRojas",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
 }
