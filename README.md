@@ -1,2 +1,2 @@
-# fundamentos-node-platzi
-Curso de fundamentos de NodeJS en Platzi
+# fundamentosNode
+Curso de fundamentos de Node.js by Platzi
